@@ -141,7 +141,7 @@ https://www.facebook.com/niamul.basher.9
 
 <!-- ![profile](./images/pp.jpg) -->
 <br>
-<img src="./images/pp.jpg" width="400" title="profile image"/>
+<img src="./images/PP.JPG" width="400" title="profile image"/>
 
 😊
 
