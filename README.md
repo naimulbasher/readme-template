@@ -138,7 +138,7 @@ https://www.facebook.com/niamul.basher.9
 ### image sytax
 
 <!-- ![profile](./images/me.jpg) -->
-<img src="./Images/pp.JPg"/>
+<img src="./Images/pp.JPG" width="400" title="profile image"/>
 
 😊
 
